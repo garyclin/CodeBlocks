@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1430516305 source:d:\github\codeblocks\codetest\codetest\main.cpp
+	<iostream>
+	<fstream>
+
