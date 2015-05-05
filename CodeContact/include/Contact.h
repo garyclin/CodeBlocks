@@ -7,6 +7,8 @@
 class Contact
 {
 	friend std::ostream& operator<<(std::ostream&, const Contact&);
+    friend class ContactList;
+
 	public:
 		Contact(std::string name = "none");
 		virtual ~Contact();

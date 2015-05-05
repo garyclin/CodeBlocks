@@ -2,3 +2,20 @@
 1385320478 source:d:\github\codeblocks\codecontact\main.cpp
 	<iostream>
 
+1430812953 source:c:\users\gary\github\codeblocks\codecontact\main.cpp
+	<iostream>
+	"ContactList.h"
+
+1430717832 source:c:\users\gary\github\codeblocks\codecontact\src\contact.cpp
+	"Contact.h"
+
+1430806159 c:\users\gary\github\codeblocks\codecontact\include\contact.h
+	<iostream>
+	<string>
+
+1430812860 source:c:\users\gary\github\codeblocks\codecontact\src\contactlist.cpp
+	"ContactList.h"
+
+1430813102 c:\users\gary\github\codeblocks\codecontact\include\contactlist.h
+	"Contact.h"
+
